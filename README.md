@@ -4,7 +4,7 @@
 ☕PRISM CAFE  — Aesthetic Online Café Interface
 ```
 
-Café π is a modern aesthetic café web interface designed to simulate a visually immersive online café experience. The platform showcases menu items such as pizzas, desserts, cold drinks, and fruit juices using interactive animations and a minimal Pinterest-inspired design language.
+PRISM CAFE is a modern aesthetic café web interface designed to simulate a visually immersive online café experience. The platform showcases menu items such as pizzas, desserts, cold drinks, and fruit juices using interactive animations and a minimal Pinterest-inspired design language.
 
 The project focuses on UI/UX design, aesthetic presentation, and micro-interactions, creating a unique digital café environment where food items are presented with smooth animations and visually pleasing layouts.
 ✨ Features
